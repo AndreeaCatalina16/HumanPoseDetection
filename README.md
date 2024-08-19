@@ -1,1 +1,2 @@
-# HumanPoseDetection-
+# HumanPoseDetection
+Projekat iz `Računarske grafike`
